@@ -9,7 +9,7 @@
     }
   },
   "bin": [
-    ["long-x86_64-pc-windows-msvc.exe", "long.exe"]
+    ["long-x86_64-pc-windows-msvc.exe", "long"]
   ],
   "checkver": {
     "github": "https://github.com/kenis1108/long"
